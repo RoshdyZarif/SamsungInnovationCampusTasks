@@ -1,10 +1,10 @@
-# **1. Open-Ended Questions **
+# 1. Open-Ended Questions 
 
 **Q1. Which type of Git object is used to store the contents of a file and how does it fit into Git’s object model?**
 
 - Git stores file contents in **blob objects**.
 - Blobs contain the raw data of a file but no filename.
-  ![](ScreenShot/1.png)
+![](ScreenShot/1.png)
 - Filenames are stored in **tree objects**, which map names to blob IDs.
 - Commits then reference trees, creating a hierarchy.
 
