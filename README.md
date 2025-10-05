@@ -1,6 +1,6 @@
 # Samsung Innovation Campus Tasks
 
-A collection of tasks and projects completed as part of the **Samsung Innovation Campus** program. These cover topics such as Linux, version control, networking, data visualization, and more.
+A collection of tasks and mini-projects completed during the **Samsung Innovation Campus** program, covering Linux, Git, networking, and Python data visualization.
 
 ---
 
@@ -16,67 +16,51 @@ A collection of tasks and projects completed as part of the **Samsung Innovation
 └── README.md
 ```
 
-- **1_Linux Task 1** — First task on basic Linux usage
+---
+
+## 📝 Overview
+
+This repository includes my practical work and exercises from the program to:
+
+- Apply core technical skills
     
-- **2_Linux 2 Capstone Task** — More advanced Linux / capstone-style project
+- Build a portfolio of completed tasks
     
-- **3_Version Control Task** — Git / version control exercises
-    
-- **4_Network Task** — Networking-related assignments
-    
-- **5_Data Visualization using Python** — Data viz projects using Python
-    
-- **README.md** — This file
+- Track learning progress
+
 
 ---
 
-## 📝 About
+## ▶️ How to Run
 
-This repository contains my solutions, practice exercises, and projects done during the Samsung Innovation Campus training. The goal is to:
-
-- Learn and demonstrate skills in Linux, networking, version control, and Python
+1. Open any folder (e.g. `cd 5_Data Visualization using Python`)
     
-- Build a portfolio of small projects and tasks
+2. Run scripts when available (e.g. `python script.py`)
     
-- Track progress throughout the program
-
----
-
-## 💡 How to Use / Run
-
-For each folder/task:
-
-1. Navigate to the specific folder (e.g. `cd 5_Data Visualization using Python`)
-    
-2. If there’s code (Python, scripts, etc.), run it (e.g. `python script.py`)
-    
-3. Check outputs, visualizations, logs, or results as required
-
-
-You may need to install dependencies (e.g. Python packages). Use something like:
+3. Install dependencies if needed:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-(if you include a `requirements.txt` in relevant folders)
-
 ---
 
-## ✅ Task Highlights / Examples
+## 🔹 Covered Topics
 
-- **Linux Tasks**: Commands, shell scripting, permissions, package management
+- Linux commands & shell scripting
     
-- **Version Control**: Git workflows, commits, branching, merging
+- Version control with Git
     
-- **Network Task**: Configuring IP, routing, network tools
+- Networking basics
     
-- **Data Visualization**: Using Python libraries (e.g. matplotlib, pandas) to plot data
+- Python data visualization (matplotlib, pandas)
+
 
 ---
 
 ## 👤 Author
 
-- **GitHub Handle**: RoshdyZarif
-    
-- **LinkedIn :**  [**Roshdy Zarif**](www.linkedin.com/in/roshdyzarif)
+**GitHub:** RoshdyZarif  
+**LinkedIn:** [Roshdy Zarif](https://www.linkedin.com/in/roshdyzarif)
+
+---
